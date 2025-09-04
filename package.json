@@ -1,0 +1,23 @@
+{
+  "name": "talk-talk-backend",
+  "version": "1.0.0",
+  "description": "A discussion forum built using TypeScript, Express, GraphQL and PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AfshanAlamEngg/talk-talk-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AfshanAlamEngg/talk-talk-backend/issues"
+  },
+  "homepage": "https://github.com/AfshanAlamEngg/talk-talk-backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
